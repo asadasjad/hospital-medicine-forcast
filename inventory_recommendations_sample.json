@@ -1,0 +1,62 @@
+[
+  {
+    "medicine_id": "MED-001",
+    "medicine_name": "Amoxicillin 500mg",
+    "predicted_demand": 500.0,
+    "current_stock": 450.0,
+    "incoming_stock": 100.0,
+    "safety_stock": 100.0,
+    "recommended_order": 50,
+    "days_of_supply": 33.0,
+    "stockout_risk": "MEDIUM",
+    "expiry_risk": "LOW",
+    "potential_waste_quantity": 0.0,
+    "potential_financial_loss": 0.0,
+    "estimated_procurement_cost": 625.0
+  },
+  {
+    "medicine_id": "MED-002",
+    "medicine_name": "Paracetamol 500mg",
+    "predicted_demand": 300.0,
+    "current_stock": 1200.0,
+    "incoming_stock": 0.0,
+    "safety_stock": 50.0,
+    "recommended_order": 0,
+    "days_of_supply": 120.0,
+    "stockout_risk": "LOW",
+    "expiry_risk": "LOW",
+    "potential_waste_quantity": 0.0,
+    "potential_financial_loss": 0.0,
+    "estimated_procurement_cost": 0.0
+  },
+  {
+    "medicine_id": "MED-003",
+    "medicine_name": "Ceftriaxone 1g Inj",
+    "predicted_demand": 200.0,
+    "current_stock": 350.0,
+    "incoming_stock": 0.0,
+    "safety_stock": 40.0,
+    "recommended_order": 40,
+    "days_of_supply": 30.0,
+    "stockout_risk": "MEDIUM",
+    "expiry_risk": "HIGH",
+    "potential_waste_quantity": 150.0,
+    "potential_financial_loss": 12750.0,
+    "estimated_procurement_cost": 3400.0
+  },
+  {
+    "medicine_id": "MED-004",
+    "medicine_name": "Adrenaline 1mg/ml",
+    "predicted_demand": 150.0,
+    "current_stock": 10.0,
+    "incoming_stock": 0.0,
+    "safety_stock": 30.0,
+    "recommended_order": 170,
+    "days_of_supply": 2.0,
+    "stockout_risk": "HIGH",
+    "expiry_risk": "LOW",
+    "potential_waste_quantity": 0.0,
+    "potential_financial_loss": 0.0,
+    "estimated_procurement_cost": 7650.0
+  }
+]
