@@ -1,0 +1,251 @@
+{"kind":"deck","id":"pr/8hpugs","name":"Deck"}
+{"kind":"layout","layoutId":"f37d53c5-3a31-4f86-924b-e55bcbaa6737","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"5a98e606-df13-4064-a1bc-837b23151b93","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/3k2bi7","slide":1,"title":"HOSPITAL MEDICINE","textShapes":10}
+{"kind":"textbox","id":"sh/sbu90bq5","slide":1,"text":"HOSPITAL MEDICINE","textPreview":"HOSPITAL MEDICINE","textChars":17,"textLines":1,"bbox":[78,78,650,30]}
+{"kind":"textbox","id":"sh/7a18r6p0","slide":1,"text":"Too much is","textPreview":"Too much is","textChars":11,"textLines":1,"bbox":[78,173,730,92]}
+{"kind":"textbox","id":"sh/69sry18f","slide":1,"text":"waste.","textPreview":"waste.","textChars":6,"textLines":1,"bbox":[78,259,690,92]}
+{"kind":"textbox","id":"sh/58jqpw7u","slide":1,"text":"Too little is","textPreview":"Too little is","textChars":13,"textLines":1,"bbox":[78,377,730,78]}
+{"kind":"textbox","id":"sh/k7a9wrq9","slide":1,"text":"risk.","textPreview":"risk.","textChars":5,"textLines":1,"bbox":[78,444,690,82]}
+{"kind":"textbox","id":"sh/jm18n6po","slide":1,"text":"Find the balance.","textPreview":"Find the balance.","textChars":17,"textLines":1,"bbox":[80,541,600,42]}
+{"kind":"shape","id":"sh/ils7u183","slide":1,"bbox":[844,126,350,442]}
+{"kind":"shape","id":"sh/xkjqlw7i","slide":1,"bbox":[880,165,278,364]}
+{"kind":"textbox","id":"sh/wjqpsrqx","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[904,198,170,100]}
+{"kind":"shape","id":"sh/algzq1kf","slide":1,"bbox":[904,318,176,5]}
+{"kind":"textbox","id":"sh/bmp0zm10","slide":1,"text":"Forecast before\nshortage.","textPreview":"Forecast before | shortage.","textChars":25,"textLines":2,"bbox":[904,349,218,112]}
+{"kind":"textbox","id":"sh/cnihsr25","slide":1,"text":"Forecasting & inventory intelligence","textPreview":"Forecasting & inventory intelligence","textChars":36,"textLines":1,"bbox":[80,604,750,34]}
+{"kind":"textbox","id":"sh/xorilwjq","slide":1,"text":"ASAD   ·   AON   ·   YASIR","textPreview":"ASAD   ·   AON   ·   YASIR","textChars":26,"textLines":1,"bbox":[80,653,500,22]}
+{"kind":"notes","id":"nt/3k2bi7","slide":1,"text":"Asad: Hospitals need enough medicine on hand. Too much can expire; too little can cause a shortage. Our goal is to help find a better balance."}
+{"kind":"slide","id":"sl/68evn3","slide":2,"title":"One system. Three clear jobs.","textShapes":14}
+{"kind":"textbox","id":"sh/cri9072h","slide":2,"text":"One system. Three clear jobs.","textPreview":"One system. Three clear jobs.","textChars":29,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"textbox","id":"sh/bq98r2lw","slide":2,"text":"A decision-support workflow for hospital medicine.","textPreview":"A decision-support workflow for hospital medicine.","textChars":50,"textLines":1,"bbox":[76,114,1128,34]}
+{"kind":"shape","id":"sh/qp0ryx4b","slide":2,"bbox":[72,206,352,302]}
+{"kind":"textbox","id":"sh/lwbaxc3y","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[98,224,82,54]}
+{"kind":"textbox","id":"sh/0v29472d","slide":2,"text":"Predict","textPreview":"Predict","textChars":7,"textLines":1,"bbox":[98,300,294,58]}
+{"kind":"textbox","id":"sh/zutsv2l8","slide":2,"text":"demand","textPreview":"demand","textChars":6,"textLines":1,"bbox":[98,362,294,50]}
+{"kind":"textbox","id":"sh/ytkr2xkn","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[424,318,32,48]}
+{"kind":"shape","id":"sh/107qls3u","slide":2,"bbox":[456,206,352,302]}
+{"kind":"textbox","id":"sh/gzy9snm9","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[482,224,82,54]}
+{"kind":"textbox","id":"sh/2tsf2ho3","slide":2,"text":"Understand","textPreview":"Understand","textChars":10,"textLines":1,"bbox":[482,300,294,58]}
+{"kind":"textbox","id":"sh/3u1gvmpo","slide":2,"text":"inventory","textPreview":"inventory","textChars":9,"textLines":1,"bbox":[482,362,294,50]}
+{"kind":"textbox","id":"sh/4vax4r69","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[808,318,32,48]}
+{"kind":"shape","id":"sh/pwjyxw7u","slide":2,"bbox":[840,206,352,302]}
+{"kind":"textbox","id":"sh/qxsf61of","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[866,224,82,54]}
+{"kind":"textbox","id":"sh/ry1gzmpk","slide":2,"text":"Recommend","textPreview":"Recommend","textChars":9,"textLines":1,"bbox":[866,300,294,58]}
+{"kind":"textbox","id":"sh/czux8r65","slide":2,"text":"what to order","textPreview":"what to order","textChars":13,"textLines":1,"bbox":[866,362,294,50]}
+{"kind":"textbox","id":"sh/d03y1w7q","slide":2,"text":"From historical sales to a practical next step.","textPreview":"From historical sales to a practical next step.","textChars":47,"textLines":1,"bbox":[74,568,1100,44]}
+{"kind":"notes","id":"nt/68evn3","slide":2,"text":"Asad: The system has three jobs. It predicts demand, checks the inventory position, and recommends what to order."}
+{"kind":"slide","id":"sl/cgnelv","slide":3,"title":"See the next decision in one view.","textShapes":41}
+{"kind":"textbox","id":"sh/h8zy9ovu","slide":3,"text":"See the next decision in one view.","textPreview":"See the next decision in one view.","textChars":34,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"textbox","id":"sh/ul8fetc3","slide":3,"text":"Product dashboard · editable visual based on the project interface","textPreview":"Product dashboard · editable visual based on the project interface","textChars":66,"textLines":1,"bbox":[76,114,1128,34]}
+{"kind":"shape","id":"sh/f6hg7ydo","slide":3,"bbox":[72,174,1136,486]}
+{"kind":"shape","id":"sh/sj6xcjud","slide":3,"bbox":[94,194,1092,446]}
+{"kind":"shape","id":"sh/tkfy5ovy","slide":3,"bbox":[116,216,46,46]}
+{"kind":"textbox","id":"sh/6hofa9c7","slide":3,"text":"H","textPreview":"H","textChars":1,"textLines":1,"bbox":[116,216,46,46]}
+{"kind":"textbox","id":"sh/7ixg3eds","slide":3,"text":"Hospital Medicine Forecasting","textPreview":"Hospital Medicine Forecasting","textChars":29,"textLines":1,"bbox":[178,215,510,43]}
+{"kind":"shape","id":"sh/cfahonuh","slide":3,"bbox":[946,218,194,36]}
+{"kind":"textbox","id":"sh/dgjyh8b2","slide":3,"text":"NEXT MONTH","textPreview":"NEXT MONTH","textChars":10,"textLines":1,"bbox":[954,218,178,36]}
+{"kind":"shape","id":"sh/5gfehkje","slide":3,"bbox":[116,280,204,78]}
+{"kind":"textbox","id":"sh/4f6xof2t","slide":3,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[132,285,174,41]}
+{"kind":"textbox","id":"sh/jedwfa18","slide":3,"text":"categories","textPreview":"categories","textChars":10,"textLines":1,"bbox":[132,326,174,23]}
+{"kind":"shape","id":"sh/id4fm5kn","slide":3,"bbox":[340,280,204,78]}
+{"kind":"textbox","id":"sh/hsvedk32","slide":3,"text":"60.91","textPreview":"60.91","textChars":5,"textLines":1,"bbox":[356,285,174,41]}
+{"kind":"textbox","id":"sh/wrmxkf2x","slide":3,"text":"MAE","textPreview":"MAE","textChars":3,"textLines":1,"bbox":[356,326,174,23]}
+{"kind":"shape","id":"sh/vqdwbalc","slide":3,"bbox":[564,280,204,78]}
+{"kind":"textbox","id":"sh/up4vi5kr","slide":3,"text":"118.24","textPreview":"118.24","textChars":6,"textLines":1,"bbox":[580,285,174,41]}
+{"kind":"textbox","id":"sh/1ozep4jm","slide":3,"text":"RMSE","textPreview":"RMSE","textChars":4,"textLines":1,"bbox":[580,326,174,23]}
+{"kind":"shape","id":"sh/gnqxwz21","slide":3,"bbox":[116,382,468,232]}
+{"kind":"textbox","id":"sh/0ryhsnad","slide":3,"text":"DEMAND FORECAST","textPreview":"DEMAND FORECAST","textChars":15,"textLines":1,"bbox":[140,396,390,30]}
+{"kind":"textbox","id":"sh/1s7yl8ri","slide":3,"text":"N02BE","textPreview":"N02BE","textChars":5,"textLines":1,"bbox":[140,438,76,25]}
+{"kind":"shape","id":"sh/epwzqds7","slide":3,"bbox":[223,446,230,12]}
+{"kind":"shape","id":"sh/zq5gji9s","slide":3,"bbox":[223,446,209.3,12]}
+{"kind":"textbox","id":"sh/cneho3a1","slide":3,"text":"901","textPreview":"901","textChars":3,"textLines":1,"bbox":[470,437,80,28]}
+{"kind":"textbox","id":"sh/donyh8rm","slide":3,"text":"M01AB","textPreview":"M01AB","textChars":5,"textLines":1,"bbox":[140,477,76,25]}
+{"kind":"shape","id":"sh/qlwzmtsv","slide":3,"bbox":[223,485,230,12]}
+{"kind":"shape","id":"sh/rm5gfy9g","slide":3,"bbox":[223,485,87.4,12]}
+{"kind":"textbox","id":"sh/4zehkja5","slide":3,"text":"151","textPreview":"151","textChars":3,"textLines":1,"bbox":[470,476,80,28]}
+{"kind":"textbox","id":"sh/pknydora","slide":3,"text":"N05B","textPreview":"N05B","textChars":4,"textLines":1,"bbox":[140,516,76,25]}
+{"kind":"shape","id":"sh/7ul0nedc","slide":3,"bbox":[223,524,230,12]}
+{"kind":"shape","id":"sh/6tczutcr","slide":3,"bbox":[223,524,62.1,12]}
+{"kind":"textbox","id":"sh/tw3ipovi","slide":3,"text":"238","textPreview":"238","textChars":3,"textLines":1,"bbox":[470,515,80,28]}
+{"kind":"textbox","id":"sh/svuhwjux","slide":3,"text":"R03","textPreview":"R03","textChars":3,"textLines":1,"bbox":[140,555,76,25]}
+{"kind":"shape","id":"sh/fil0ryt8","slide":3,"bbox":[223,563,230,12]}
+{"kind":"shape","id":"sh/uxczytc3","slide":3,"bbox":[223,563,50.6,12]}
+{"kind":"textbox","id":"sh/hknit8be","slide":3,"text":"147","textPreview":"147","textChars":3,"textLines":1,"bbox":[470,554,80,28]}
+{"kind":"shape","id":"sh/gjuh03ut","slide":3,"bbox":[604,382,558,232]}
+{"kind":"textbox","id":"sh/3m50vytk","slide":3,"text":"INVENTORY RECOMMENDATIONS","textPreview":"INVENTORY RECOMMENDATIONS","textChars":25,"textLines":1,"bbox":[628,396,496,30]}
+{"kind":"textbox","id":"sh/2lwz2dcz","slide":3,"text":"CATEGORY","textPreview":"CATEGORY","textChars":8,"textLines":1,"bbox":[628,435,100,23]}
+{"kind":"textbox","id":"sh/m1obe1o7","slide":3,"text":"DEMAND","textPreview":"DEMAND","textChars":6,"textLines":1,"bbox":[770,435,100,23]}
+{"kind":"textbox","id":"sh/n2xsn65s","slide":3,"text":"STOCK","textPreview":"STOCK","textChars":5,"textLines":1,"bbox":[870,435,100,23]}
+{"kind":"textbox","id":"sh/836tgb6d","slide":3,"text":"ORDER","textPreview":"ORDER","textChars":5,"textLines":1,"bbox":[961,435,100,23]}
+{"kind":"textbox","id":"sh/94fapgny","slide":3,"text":"RISK","textPreview":"RISK","textChars":4,"textLines":1,"bbox":[1057,435,100,23]}
+{"kind":"shape","id":"sh/a5obiloj","slide":3,"bbox":[628,462,500,1]}
+{"kind":"textbox","id":"sh/v6xcrq54","slide":3,"text":"N02BE","textPreview":"N02BE","textChars":5,"textLines":1,"bbox":[628,474,130,27]}
+{"kind":"textbox","id":"sh/w76tkv6p","slide":3,"text":"901","textPreview":"901","textChars":3,"textLines":1,"bbox":[770,474,90,27]}
+{"kind":"textbox","id":"sh/x8zut0nu","slide":3,"text":"700","textPreview":"700","textChars":3,"textLines":1,"bbox":[870,474,90,27]}
+{"kind":"textbox","id":"sh/q9kb6hof","slide":3,"text":"252","textPreview":"252","textChars":3,"textLines":1,"bbox":[961,474,90,27]}
+{"kind":"textbox","id":"sh/radsfm5k","slide":3,"text":"MEDIUM","textPreview":"MEDIUM","textChars":6,"textLines":1,"bbox":[1057,474,90,27]}
+{"kind":"textbox","id":"sh/t4jelk72","slide":3,"text":"M01AB","textPreview":"M01AB","textChars":5,"textLines":1,"bbox":[628,514,130,27]}
+{"kind":"textbox","id":"sh/s3adszqx","slide":3,"text":"151","textPreview":"151","textChars":3,"textLines":1,"bbox":[770,514,90,27]}
+{"kind":"textbox","id":"sh/721wjupc","slide":3,"text":"100","textPreview":"100","textChars":3,"textLines":1,"bbox":[870,514,90,27]}
+{"kind":"textbox","id":"sh/61svqp8r","slide":3,"text":"66","textPreview":"66","textChars":2,"textLines":1,"bbox":[961,514,90,27]}
+{"kind":"textbox","id":"sh/hs3ep47e","slide":3,"text":"MEDIUM","textPreview":"MEDIUM","textChars":6,"textLines":1,"bbox":[1057,514,90,27]}
+{"kind":"textbox","id":"sh/gradwzqt","slide":3,"text":"N05B","textPreview":"N05B","textChars":4,"textLines":1,"bbox":[628,554,130,27]}
+{"kind":"textbox","id":"sh/fq1wnup8","slide":3,"text":"238","textPreview":"238","textChars":3,"textLines":1,"bbox":[770,554,90,27]}
+{"kind":"textbox","id":"sh/u5svup8n","slide":3,"text":"250","textPreview":"250","textChars":3,"textLines":1,"bbox":[870,554,90,27]}
+{"kind":"textbox","id":"sh/xwzed07a","slide":3,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[961,554,90,27]}
+{"kind":"textbox","id":"sh/wvqdkfqp","slide":3,"text":"MEDIUM","textPreview":"MEDIUM","textChars":6,"textLines":1,"bbox":[1057,554,90,27]}
+{"kind":"notes","id":"nt/cgnelv","slide":3,"text":"Yasir: This is the dashboard view. Forecasts, stock, suggested orders and risk appear together, so a team can see the next decision in one place."}
+{"kind":"slide","id":"sl/3lomhl","slide":4,"title":"The dashboard makes each signal easy to scan.","textShapes":16}
+{"kind":"textbox","id":"sh/nu5gj698","slide":4,"text":"The dashboard makes each signal easy to scan.","textPreview":"The dashboard makes each signal easy to scan.","textChars":45,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"shape","id":"sh/ovehsbqt","slide":4,"bbox":[78,182,72,36]}
+{"kind":"textbox","id":"sh/9wnylgre","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[86,182,56,36]}
+{"kind":"textbox","id":"sh/epczm1sr","slide":4,"text":"Forecast","textPreview":"Forecast","textChars":8,"textLines":1,"bbox":[178,180,440,52]}
+{"kind":"textbox","id":"sh/zq5gfm9c","slide":4,"text":"Next-period demand","textPreview":"Next-period demand","textChars":18,"textLines":1,"bbox":[180,234,440,34]}
+{"kind":"shape","id":"sh/0rehorqx","slide":4,"bbox":[178,288,440,1]}
+{"kind":"shape","id":"sh/1snyhwri","slide":4,"bbox":[78,314,72,36]}
+{"kind":"textbox","id":"sh/q1cfihsf","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[86,314,56,36]}
+{"kind":"textbox","id":"sh/rmlgbm90","slide":4,"text":"Stock","textPreview":"Stock","textChars":5,"textLines":1,"bbox":[178,312,440,52]}
+{"kind":"textbox","id":"sh/bahsfu5o","slide":4,"text":"Units on hand and incoming","textPreview":"Units on hand and incoming","textChars":26,"textLines":1,"bbox":[180,366,440,34]}
+{"kind":"shape","id":"sh/q98bmpoj","slide":4,"bbox":[178,420,440,1]}
+{"kind":"shape","id":"sh/dczuh4nu","slide":4,"bbox":[78,446,72,36]}
+{"kind":"textbox","id":"sh/cbqtozm9","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[86,446,56,36]}
+{"kind":"textbox","id":"sh/zehcje50","slide":4,"text":"Coverage","textPreview":"Coverage","textChars":8,"textLines":1,"bbox":[178,444,440,52]}
+{"kind":"textbox","id":"sh/yd8bq94f","slide":4,"text":"Days of supply","textPreview":"Days of supply","textChars":14,"textLines":1,"bbox":[180,498,440,34]}
+{"kind":"shape","id":"sh/lgjulon6","slide":4,"bbox":[720,182,488,386]}
+{"kind":"textbox","id":"sh/0fqtsjml","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[758,214,72,43]}
+{"kind":"textbox","id":"sh/fixs7a5w","slide":4,"text":"Risk","textPreview":"Risk","textChars":4,"textLines":1,"bbox":[758,269,384,54]}
+{"kind":"textbox","id":"sh/uhobe5ob","slide":4,"text":"Stockout  ·  Expiry","textPreview":"Stockout  ·  Expiry","textChars":19,"textLines":1,"bbox":[758,324,384,34]}
+{"kind":"shape","id":"sh/i9wn2hsv","slide":4,"bbox":[758,386,398,2]}
+{"kind":"textbox","id":"sh/ja54vmtg","slide":4,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[758,414,72,43]}
+{"kind":"textbox","id":"sh/4be54ra1","slide":4,"text":"Suggested order","textPreview":"Suggested order","textChars":15,"textLines":1,"bbox":[758,467,398,54]}
+{"kind":"textbox","id":"sh/5c76xwbm","slide":4,"text":"A clear replenishment quantity","textPreview":"A clear replenishment quantity","textChars":30,"textLines":1,"bbox":[758,518,398,30]}
+{"kind":"notes","id":"nt/3lomhl","slide":4,"text":"Yasir: The dashboard shows predicted demand, available stock, days of supply, risk levels, and a suggested order. The goal is to make the decision easy to read."}
+{"kind":"slide","id":"sl/82lglg","slide":5,"title":"N02BE","textShapes":16}
+{"kind":"textbox","id":"sh/0zmdkjyx","slide":5,"text":"N02BE","textPreview":"N02BE","textChars":5,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"textbox","id":"sh/fedwbexc","slide":5,"text":"A prototype scenario · 30-day planning horizon","textPreview":"A prototype scenario · 30-day planning horizon","textChars":46,"textLines":1,"bbox":[76,114,1128,34]}
+{"kind":"shape","id":"sh/ed4vi9gr","slide":5,"bbox":[72,182,1136,436]}
+{"kind":"textbox","id":"sh/p4feh8fe","slide":5,"text":"901","textPreview":"901","textChars":3,"textLines":1,"bbox":[126,220,390,146]}
+{"kind":"textbox","id":"sh/o36do3yt","slide":5,"text":"PREDICTED DEMAND","textPreview":"PREDICTED DEMAND","textChars":16,"textLines":1,"bbox":[142,364,340,34]}
+{"kind":"shape","id":"sh/n2xwfyxo","slide":5,"bbox":[564,260,142,72]}
+{"kind":"textbox","id":"sh/214vmtg3","slide":5,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[564,260,142,72]}
+{"kind":"textbox","id":"sh/x8fel8fq","slide":5,"text":"252","textPreview":"252","textChars":3,"textLines":1,"bbox":[758,220,370,146]}
+{"kind":"textbox","id":"sh/c76xs3y5","slide":5,"text":"RECOMMENDED ORDER","textPreview":"RECOMMENDED ORDER","textChars":17,"textLines":1,"bbox":[776,364,370,34]}
+{"kind":"shape","id":"sh/upo76d8b","slide":5,"bbox":[126,434,1024,2]}
+{"kind":"textbox","id":"sh/vqx8zi9w","slide":5,"text":"700","textPreview":"700","textChars":3,"textLines":1,"bbox":[126,465,180,57]}
+{"kind":"textbox","id":"sh/gr6p8nqh","slide":5,"text":"ON HAND","textPreview":"ON HAND","textChars":7,"textLines":1,"bbox":[130,520,180,27]}
+{"kind":"textbox","id":"sh/hsfq18r2","slide":5,"text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[318,472,48,45]}
+{"kind":"textbox","id":"sh/ito7ad8n","slide":5,"text":"100","textPreview":"100","textChars":3,"textLines":1,"bbox":[390,465,180,57]}
+{"kind":"textbox","id":"sh/3ux83i9s","slide":5,"text":"INCOMING","textPreview":"INCOMING","textChars":8,"textLines":1,"bbox":[394,520,180,27]}
+{"kind":"textbox","id":"sh/4v69cnqd","slide":5,"text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[588,472,48,45]}
+{"kind":"textbox","id":"sh/5wzq5sry","slide":5,"text":"150","textPreview":"150","textChars":3,"textLines":1,"bbox":[660,465,180,57]}
+{"kind":"textbox","id":"sh/yxk7yts3","slide":5,"text":"SAFETY BUFFER","textPreview":"SAFETY BUFFER","textChars":13,"textLines":1,"bbox":[664,520,190,27]}
+{"kind":"textbox","id":"sh/jyd8ry9o","slide":5,"text":"Demo inventory inputs · rule-based calculation","textPreview":"Demo inventory inputs · rule-based calculation","textChars":46,"textLines":1,"bbox":[126,570,1000,28]}
+{"kind":"notes","id":"nt/82lglg","slide":5,"text":"Aon: For N02BE, demand is predicted at 901 units. With 700 on hand, 100 incoming, and a 150-unit safety buffer, the prototype recommends 252 units. Inventory values are demo inputs."}
+{"kind":"slide","id":"sl/x0dmow","slide":6,"title":"Four steps turn history into a plan.","textShapes":17}
+{"kind":"textbox","id":"sh/tw369kby","slide":6,"text":"Four steps turn history into a plan.","textPreview":"Four steps turn history into a plan.","textChars":36,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"shape","id":"sh/6tcnypsn","slide":6,"bbox":[72,214,248,260]}
+{"kind":"textbox","id":"sh/7ulo7uts","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[96,234,68,46]}
+{"kind":"textbox","id":"sh/kru5wfah","slide":6,"text":"Historical data","textPreview":"Historical data","textChars":15,"textLines":1,"bbox":[96,302,202,70]}
+{"kind":"textbox","id":"sh/ls365kb2","slide":6,"text":"Monthly sales","textPreview":"Monthly sales","textChars":13,"textLines":1,"bbox":[96,397,204,54]}
+{"kind":"textbox","id":"sh/ypsnu5sb","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[321,315,39,50]}
+{"kind":"shape","id":"sh/jqlo3atw","slide":6,"bbox":[360,214,248,260]}
+{"kind":"textbox","id":"sh/4nep8jal","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[384,234,68,46]}
+{"kind":"textbox","id":"sh/5on6h4b6","slide":6,"text":"Demand forecast","textPreview":"Demand forecast","textChars":15,"textLines":1,"bbox":[384,302,202,70]}
+{"kind":"textbox","id":"sh/h0fu1gza","slide":6,"text":"Linear Regression","textPreview":"Linear Regression","textChars":17,"textLines":1,"bbox":[384,397,204,54]}
+{"kind":"textbox","id":"sh/gz6tsbyp","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[609,315,39,50]}
+{"kind":"shape","id":"sh/vyxszqh4","slide":6,"bbox":[648,214,248,260]}
+{"kind":"textbox","id":"sh/uxobqlgj","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[672,234,68,46]}
+{"kind":"textbox","id":"sh/twfaxgze","slide":6,"text":"Inventory analysis","textPreview":"Inventory analysis","textChars":18,"textLines":1,"bbox":[672,302,202,70]}
+{"kind":"textbox","id":"sh/8vmtobyt","slide":6,"text":"Stock · lead time · buffer","textPreview":"Stock · lead time · buffer","textChars":26,"textLines":1,"bbox":[672,397,204,54]}
+{"kind":"textbox","id":"sh/7udsv6h8","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[897,315,39,50]}
+{"kind":"shape","id":"sh/6t4bm1gn","slide":6,"bbox":[936,214,248,260]}
+{"kind":"textbox","id":"sh/dszu90zi","slide":6,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[960,234,68,46]}
+{"kind":"textbox","id":"sh/srqt0vyx","slide":6,"text":"Suggested order","textPreview":"Suggested order","textChars":15,"textLines":1,"bbox":[960,302,202,70]}
+{"kind":"textbox","id":"sh/w7i5s3a5","slide":6,"text":"Order quantity · risk","textPreview":"Order quantity · risk","textChars":21,"textLines":1,"bbox":[960,397,204,54]}
+{"kind":"textbox","id":"sh/x8rml8rq","slide":6,"text":"Forecast first. Inventory context next. Decision last.","textPreview":"Forecast first. Inventory context next. Decision last.","textChars":54,"textLines":1,"bbox":[74,546,1100,42]}
+{"kind":"notes","id":"nt/x0dmow","slide":6,"text":"Asad: We start with monthly sales history. The model forecasts demand. The inventory engine combines that forecast with stock and lead-time inputs, then returns an order suggestion and risk flags."}
+{"kind":"slide","id":"sl/5b5avp","slide":7,"title":"A simple model. Measured on held-out months.","textShapes":14}
+{"kind":"textbox","id":"sh/z29sv6xs","slide":7,"text":"A simple model. Measured on held-out months.","textPreview":"A simple model. Measured on held-out months.","textChars":44,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"textbox","id":"sh/0nitobyd","slide":7,"text":"Monthly pharmaceutical sales · time-based train/test split","textPreview":"Monthly pharmaceutical sales · time-based train/test split","textChars":58,"textLines":1,"bbox":[76,114,1128,34]}
+{"kind":"shape","id":"sh/loraxgfy","slide":7,"bbox":[72,184,710,294]}
+{"kind":"textbox","id":"sh/qx0ri1gb","slide":7,"text":"70","textPreview":"70","textChars":2,"textLines":1,"bbox":[106,206,270,130]}
+{"kind":"textbox","id":"sh/by9sr6xg","slide":7,"text":"MONTHS","textPreview":"MONTHS","textChars":6,"textLines":1,"bbox":[114,328,250,34]}
+{"kind":"shape","id":"sh/czi9kby1","slide":7,"bbox":[390,224,2,206]}
+{"kind":"textbox","id":"sh/d0ratgfm","slide":7,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[438,206,224,130]}
+{"kind":"textbox","id":"sh/2tgre1gz","slide":7,"text":"ATC CATEGORIES","textPreview":"ATC CATEGORIES","textChars":14,"textLines":1,"bbox":[446,328,290,34]}
+{"kind":"textbox","id":"sh/3upsnmxk","slide":7,"text":"2014–2019","textPreview":"2014–2019","textChars":9,"textLines":1,"bbox":[108,394,570,49]}
+{"kind":"shape","id":"sh/7udw7al8","slide":7,"bbox":[810,184,398,294]}
+{"kind":"textbox","id":"sh/mt4vepkn","slide":7,"text":"LINEAR","textPreview":"LINEAR","textChars":6,"textLines":1,"bbox":[850,220,300,40]}
+{"kind":"textbox","id":"sh/9wve9k3y","slide":7,"text":"REGRESSION","textPreview":"REGRESSION","textChars":10,"textLines":1,"bbox":[850,256,300,58]}
+{"kind":"textbox","id":"sh/8vmdgf2t","slide":7,"text":"Time-based evaluation","textPreview":"Time-based evaluation","textChars":21,"textLines":1,"bbox":[850,337,300,32]}
+{"kind":"shape","id":"sh/vidwbul4","slide":7,"bbox":[72,510,548,100]}
+{"kind":"textbox","id":"sh/uh4vipkj","slide":7,"text":"MAE","textPreview":"MAE","textChars":3,"textLines":1,"bbox":[100,523,112,32]}
+{"kind":"textbox","id":"sh/hkfed43a","slide":7,"text":"60.91","textPreview":"60.91","textChars":5,"textLines":1,"bbox":[100,554,460,46]}
+{"kind":"shape","id":"sh/wjmdkz2p","slide":7,"bbox":[660,510,548,100]}
+{"kind":"textbox","id":"sh/bmtczql0","slide":7,"text":"RMSE","textPreview":"RMSE","textChars":4,"textLines":1,"bbox":[688,523,112,32]}
+{"kind":"textbox","id":"sh/a1kv65kf","slide":7,"text":"118.24","textPreview":"118.24","textChars":6,"textLines":1,"bbox":[688,554,460,46]}
+{"kind":"notes","id":"nt/5b5avp","slide":7,"text":"Asad: We used 70 monthly observations across eight categories, covering 2014 to 2019. We evaluated Linear Regression using a time-based split. The test errors were 60.91 MAE and 118.24 RMSE."}
+{"kind":"slide","id":"sl/3aigtd","slide":8,"title":"The order rule is visible and explainable.","textShapes":18}
+{"kind":"textbox","id":"sh/65gbmh0n","slide":8,"text":"The order rule is visible and explainable.","textPreview":"The order rule is visible and explainable.","textChars":42,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"textbox","id":"sh/t8raxwzy","slide":8,"text":"Inventory engine · 30-day planning horizon","textPreview":"Inventory engine · 30-day planning horizon","textChars":42,"textLines":1,"bbox":[76,114,1128,34]}
+{"kind":"shape","id":"sh/s7itorid","slide":8,"bbox":[72,173,648,65]}
+{"kind":"textbox","id":"sh/jipsr2hw","slide":8,"text":"Forecast demand","textPreview":"Forecast demand","textChars":15,"textLines":1,"bbox":[96,178,300,30]}
+{"kind":"textbox","id":"sh/ihgbix0b","slide":8,"text":"Expected use","textPreview":"Expected use","textChars":12,"textLines":1,"bbox":[96,207,430,24]}
+{"kind":"shape","id":"sh/547atcz2","slide":8,"bbox":[72,255,648,65]}
+{"kind":"textbox","id":"sh/kjytk7ih","slide":8,"text":"Current stock","textPreview":"Current stock","textChars":13,"textLines":1,"bbox":[96,260,300,30]}
+{"kind":"textbox","id":"sh/ve5sn2h0","slide":8,"text":"Units on hand","textPreview":"Units on hand","textChars":13,"textLines":1,"bbox":[96,289,430,24]}
+{"kind":"shape","id":"sh/adwbex0f","slide":8,"bbox":[72,337,648,65]}
+{"kind":"textbox","id":"sh/ovapovml","slide":8,"text":"Incoming stock","textPreview":"Incoming stock","textChars":14,"textLines":1,"bbox":[96,342,300,30]}
+{"kind":"textbox","id":"sh/pw3qh036","slide":8,"text":"Already ordered","textPreview":"Already ordered","textChars":15,"textLines":1,"bbox":[96,371,430,24]}
+{"kind":"shape","id":"sh/29s7m54f","slide":8,"bbox":[72,419,648,65]}
+{"kind":"textbox","id":"sh/3a18fql0","slide":8,"text":"Safety stock","textPreview":"Safety stock","textChars":12,"textLines":1,"bbox":[96,424,300,30]}
+{"kind":"textbox","id":"sh/g7apkvmp","slide":8,"text":"Buffer quantity","textPreview":"Buffer quantity","textChars":15,"textLines":1,"bbox":[96,453,430,24]}
+{"kind":"shape","id":"sh/18jqd03u","slide":8,"bbox":[72,501,648,65]}
+{"kind":"textbox","id":"sh/e5s7il4j","slide":8,"text":"Supplier lead time","textPreview":"Supplier lead time","textChars":18,"textLines":1,"bbox":[96,506,300,30]}
+{"kind":"textbox","id":"sh/f618bq54","slide":8,"text":"Days to delivery","textPreview":"Days to delivery","textChars":16,"textLines":1,"bbox":[96,535,430,24]}
+{"kind":"textbox","id":"sh/03e9wfmt","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[724,334,66,60]}
+{"kind":"shape","id":"sh/l4nqpk3e","slide":8,"bbox":[806,212,402,326]}
+{"kind":"textbox","id":"sh/98zytgr6","slide":8,"text":"ENGINE OUTPUT","textPreview":"ENGINE OUTPUT","textChars":13,"textLines":1,"bbox":[842,246,310,30]}
+{"kind":"textbox","id":"sh/87qhkval","slide":8,"text":"Suggested\norder","textPreview":"Suggested | order","textChars":15,"textLines":2,"bbox":[842,296,320,112]}
+{"kind":"shape","id":"sh/n6hgrq90","slide":8,"bbox":[842,430,326,2]}
+{"kind":"textbox","id":"sh/m58zilsf","slide":8,"text":"Stockout risk","textPreview":"Stockout risk","textChars":13,"textLines":1,"bbox":[842,452,304,30]}
+{"kind":"textbox","id":"sh/l4fypgra","slide":8,"text":"Expiry risk  ·  Days of supply","textPreview":"Expiry risk  ·  Days of supply","textChars":30,"textLines":1,"bbox":[842,492,326,26]}
+{"kind":"textbox","id":"sh/0j6hgbap","slide":8,"text":"Planning support with human review.","textPreview":"Planning support with human review.","textChars":35,"textLines":1,"bbox":[76,612,900,30]}
+{"kind":"notes","id":"nt/3aigtd","slide":8,"text":"Aon: The inventory engine uses predicted demand, on-hand and incoming stock, safety stock, and supplier lead time. It calculates a suggested order and flags stockout or expiry risk."}
+{"kind":"slide","id":"sl/4w9aoq","slide":9,"title":"Three roles. One connected workflow.","textShapes":17}
+{"kind":"textbox","id":"sh/rmdgfq98","slide":9,"text":"Three roles. One connected workflow.","textPreview":"Three roles. One connected workflow.","textChars":36,"textLines":1,"bbox":[72,42,1136,70]}
+{"kind":"shape","id":"sh/sn6hovad","slide":9,"bbox":[72,196,352,306]}
+{"kind":"textbox","id":"sh/dofyh0ry","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[98,219,62,42]}
+{"kind":"textbox","id":"sh/epozq5sj","slide":9,"text":"ASAD","textPreview":"ASAD","textChars":4,"textLines":1,"bbox":[98,291,296,70]}
+{"kind":"shape","id":"sh/fqxgja94","slide":9,"bbox":[98,376,300,2]}
+{"kind":"textbox","id":"sh/0r6hsfqp","slide":9,"text":"Data & machine learning","textPreview":"Data & machine learning","textChars":23,"textLines":1,"bbox":[98,399,296,59]}
+{"kind":"shape","id":"sh/1sfylkra","slide":9,"bbox":[456,196,352,306]}
+{"kind":"textbox","id":"sh/2tozu58v","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[482,219,62,42]}
+{"kind":"textbox","id":"sh/nuxgna9g","slide":9,"text":"AON","textPreview":"AON","textChars":3,"textLines":1,"bbox":[482,291,296,70]}
+{"kind":"shape","id":"sh/zuxsji9k","slide":9,"bbox":[482,376,300,2]}
+{"kind":"textbox","id":"sh/ytobax8z","slide":9,"text":"Inventory engine & backend","textPreview":"Inventory engine & backend","textChars":26,"textLines":1,"bbox":[482,399,296,59]}
+{"kind":"shape","id":"sh/lwzulsrq","slide":9,"bbox":[840,196,352,306]}
+{"kind":"textbox","id":"sh/kv6tcnq5","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[866,219,62,42]}
+{"kind":"textbox","id":"sh/bqxsfi98","slide":9,"text":"YASIR","textPreview":"YASIR","textChars":5,"textLines":1,"bbox":[866,291,296,70]}
+{"kind":"shape","id":"sh/apob6d83","slide":9,"bbox":[866,376,300,2]}
+{"kind":"textbox","id":"sh/xsfahsre","slide":9,"text":"Dashboard & frontend","textPreview":"Dashboard & frontend","textChars":20,"textLines":1,"bbox":[866,399,296,59]}
+{"kind":"textbox","id":"sh/cr6t8nqt","slide":9,"text":"DATA","textPreview":"DATA","textChars":4,"textLines":1,"bbox":[104,568,192,34]}
+{"kind":"textbox","id":"sh/vmhcr2ps","slide":9,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[296,559,48,46]}
+{"kind":"textbox","id":"sh/ul8bih87","slide":9,"text":"FORECAST","textPreview":"FORECAST","textChars":8,"textLines":1,"bbox":[350,568,206,34]}
+{"kind":"textbox","id":"sh/6hcva1sf","slide":9,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[558,559,48,46]}
+{"kind":"textbox","id":"sh/rilwj6t0","slide":9,"text":"INVENTORY LOGIC","textPreview":"INVENTORY LOGIC","textChars":15,"textLines":1,"bbox":[612,568,266,34]}
+{"kind":"textbox","id":"sh/sjuxcbal","slide":9,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[876,559,48,46]}
+{"kind":"textbox","id":"sh/tk3elgrq","slide":9,"text":"DASHBOARD","textPreview":"DASHBOARD","textChars":9,"textLines":1,"bbox":[930,568,250,34]}
+{"kind":"notes","id":"nt/4w9aoq","slide":9,"text":"Asad: I worked on the data and forecasting.\nAon: I built the inventory rules and backend integration.\nYasir: I built the dashboard that brings the results together."}
+{"kind":"slide","id":"sl/vtdfhg","slide":10,"title":"Predict.","textShapes":7}
+{"kind":"textbox","id":"sh/dwvqh4z2","slide":10,"text":"Predict.","textPreview":"Predict.","textChars":8,"textLines":1,"bbox":[82,132,700,92]}
+{"kind":"textbox","id":"sh/q94rmpgb","slide":10,"text":"Prepare.","textPreview":"Prepare.","textChars":8,"textLines":1,"bbox":[82,245,750,96]}
+{"kind":"textbox","id":"sh/rad8fuhw","slide":10,"text":"Prevent.","textPreview":"Prevent.","textChars":8,"textLines":1,"bbox":[82,362,750,92]}
+{"kind":"shape","id":"sh/472pkfy5","slide":10,"bbox":[850,138,340,414]}
+{"kind":"textbox","id":"sh/p8bqdkzq","slide":10,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[884,178,220,105]}
+{"kind":"textbox","id":"sh/25k7ipgf","slide":10,"text":"DECISIONS","textPreview":"DECISIONS","textChars":9,"textLines":1,"bbox":[886,288,234,30]}
+{"kind":"shape","id":"sh/36t8bahk","slide":10,"bbox":[886,343,224,4]}
+{"kind":"textbox","id":"sh/g32pgfy9","slide":10,"text":"before the\nshortage.","textPreview":"before the | shortage.","textChars":20,"textLines":2,"bbox":[886,372,228,100]}
+{"kind":"textbox","id":"sh/h4bq9kzu","slide":10,"text":"Hospital Medicine Forecasting & Inventory Intelligence","textPreview":"Hospital Medicine Forecasting & Inventory Intelligence","textChars":54,"textLines":1,"bbox":[84,589,1050,38]}
+{"kind":"notes","id":"nt/vtdfhg","slide":10,"text":"Asad: Predict demand. Prepare inventory. Prevent avoidable shortages and waste. Thank you."}
