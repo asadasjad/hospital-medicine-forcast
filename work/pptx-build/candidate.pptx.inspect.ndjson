@@ -1,0 +1,191 @@
+{"kind":"deck","id":"pr/o7naiy","name":"Deck"}
+{"kind":"layout","layoutId":"d29fdf92-d3e5-4752-9d59-e8cb9b780708","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3bb829fb-ffeb-4ac2-924b-1baf71db3475","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/djlg3i","slide":1,"title":"Too much is waste.","textShapes":4}
+{"kind":"textbox","id":"sh/rq1o7uls","slide":1,"text":"Too much is waste.","textPreview":"Too much is waste.","textChars":18,"textLines":1,"bbox":[96,166,1080,104]}
+{"kind":"textbox","id":"sh/srap0z2d","slide":1,"text":"Too little is risk.","textPreview":"Too little is risk.","textChars":19,"textLines":1,"bbox":[96,276,1080,104]}
+{"kind":"shape","id":"sh/tsj6943i","slide":1,"bbox":[98,430,74,5]}
+{"kind":"textbox","id":"sh/ets72pk3","slide":1,"text":"Hospital medicine forecasting & inventory intelligence","textPreview":"Hospital medicine forecasting & inventory intelligence","textChars":54,"textLines":1,"bbox":[98,458,1000,40]}
+{"kind":"textbox","id":"sh/fu1obulo","slide":1,"text":"ASAD  ·  AON  ·  YASIR","textPreview":"ASAD  ·  AON  ·  YASIR","textChars":22,"textLines":1,"bbox":[98,620,700,24]}
+{"kind":"notes","id":"nt/djlg3i","slide":1,"text":"Asad: Hospitals need enough medicine on hand. Too much can expire; too little can cause a shortage. Our goal is to help find a better balance."}
+{"kind":"slide","id":"sl/2158pu","slide":2,"title":"One system. Three clear jobs.","textShapes":9}
+{"kind":"textbox","id":"sh/7epcvelg","slide":2,"text":"One system. Three clear jobs.","textPreview":"One system. Three clear jobs.","textChars":29,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"textbox","id":"sh/8fydoj2l","slide":2,"text":"A decision-support workflow for hospital medicine inventory.","textPreview":"A decision-support workflow for hospital medicine inventory.","textChars":60,"textLines":1,"bbox":[74,124,1100,34]}
+{"kind":"shape","id":"sh/9g7uxo36","slide":2,"bbox":[72,232,350,230]}
+{"kind":"textbox","id":"sh/uhgvqtkr","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[98,257,60,32]}
+{"kind":"textbox","id":"sh/vi9czy1c","slide":2,"text":"Predict demand","textPreview":"Predict demand","textChars":14,"textLines":1,"bbox":[98,318,300,95]}
+{"kind":"shape","id":"sh/wjids32x","slide":2,"bbox":[452,232,350,230]}
+{"kind":"textbox","id":"sh/hkre18ji","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[478,257,60,32]}
+{"kind":"textbox","id":"sh/alwbepkn","slide":2,"text":"Understand inventory","textPreview":"Understand inventory","textChars":20,"textLines":1,"bbox":[478,318,300,95]}
+{"kind":"shape","id":"sh/bm5cnul8","slide":2,"bbox":[832,232,350,230]}
+{"kind":"textbox","id":"sh/na94nutc","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[858,257,60,32]}
+{"kind":"textbox","id":"sh/m9g3epcr","slide":2,"text":"Recommend what to order","textPreview":"Recommend what to order","textChars":23,"textLines":1,"bbox":[858,318,300,95]}
+{"kind":"textbox","id":"sh/9crmp4bi","slide":2,"text":"Forecast  →  context  →  action","textPreview":"Forecast  →  context  →  action","textChars":31,"textLines":1,"bbox":[72,532,1000,42]}
+{"kind":"notes","id":"nt/2158pu","slide":2,"text":"Asad: The system has three jobs. It predicts demand, checks the inventory position, and recommends what to order."}
+{"kind":"slide","id":"sl/apux6h","slide":3,"title":"See the next decision in one view.","textShapes":21}
+{"kind":"textbox","id":"sh/4rml4nqh","slide":3,"text":"See the next decision in one view.","textPreview":"See the next decision in one view.","textChars":34,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"textbox","id":"sh/j6dkb29c","slide":3,"text":"Hospital Medicine Forecasting  ·  Demand prediction & inventory intelligence","textPreview":"Hospital Medicine Forecasting  ·  Demand prediction & inventory intelligence","textChars":76,"textLines":1,"bbox":[74,124,1100,34]}
+{"kind":"shape","id":"sh/i5kj2x8r","slide":3,"bbox":[72,183,1136,456]}
+{"kind":"shape","id":"sh/h4b29sr6","slide":3,"bbox":[96,204,1088,414]}
+{"kind":"shape","id":"sh/w3210nql","slide":3,"bbox":[116,222,38,38]}
+{"kind":"textbox","id":"sh/v2tk7i90","slide":3,"text":"H","textPreview":"H","textChars":1,"textLines":1,"bbox":[116,222,38,38]}
+{"kind":"textbox","id":"sh/u1kjyd8f","slide":3,"text":"Hospital Medicine Forecasting","textPreview":"Hospital Medicine Forecasting","textChars":29,"textLines":1,"bbox":[168,221,500,28]}
+{"kind":"textbox","id":"sh/10f2lcra","slide":3,"text":"Forecast: next month","textPreview":"Forecast: next month","textChars":20,"textLines":1,"bbox":[840,223,294,25]}
+{"kind":"shape","id":"sh/0z6lc7qp","slide":3,"bbox":[116,277,188,76]}
+{"kind":"textbox","id":"sh/6xgnyhw3","slide":3,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[130,285,158,34]}
+{"kind":"textbox","id":"sh/ryp47mdo","slide":3,"text":"categories","textPreview":"categories","textChars":10,"textLines":1,"bbox":[130,321,158,20]}
+{"kind":"shape","id":"sh/szy507e9","slide":3,"bbox":[322,277,188,76]}
+{"kind":"textbox","id":"sh/t07m9cvu","slide":3,"text":"60.91","textPreview":"60.91","textChars":5,"textLines":1,"bbox":[336,285,158,34]}
+{"kind":"textbox","id":"sh/itg3uxw7","slide":3,"text":"MAE","textPreview":"MAE","textChars":3,"textLines":1,"bbox":[336,321,158,20]}
+{"kind":"shape","id":"sh/jup432ds","slide":3,"bbox":[528,277,188,76]}
+{"kind":"textbox","id":"sh/4vylw7ex","slide":3,"text":"118.24","textPreview":"118.24","textChars":6,"textLines":1,"bbox":[542,285,158,34]}
+{"kind":"textbox","id":"sh/5w7m5cvi","slide":3,"text":"RMSE","textPreview":"RMSE","textChars":4,"textLines":1,"bbox":[542,321,158,20]}
+{"kind":"shape","id":"sh/2p0n61wb","slide":3,"bbox":[116,374,476,216]}
+{"kind":"textbox","id":"sh/3q94f6dw","slide":3,"text":"Demand forecast","textPreview":"Demand forecast","textChars":15,"textLines":1,"bbox":[138,390,250,26]}
+{"kind":"textbox","id":"sh/zalk7yt8","slide":3,"text":"N02BE","textPreview":"N02BE","textChars":5,"textLines":1,"bbox":[138,434,70,18]}
+{"kind":"shape","id":"sh/y9sjytcn","slide":3,"bbox":[220,437,320,10]}
+{"kind":"shape","id":"sh/lc329obe","slide":3,"bbox":[220,437,294.4,10]}
+{"kind":"textbox","id":"sh/0bu103ut","slide":3,"text":"M01AB","textPreview":"M01AB","textChars":5,"textLines":1,"bbox":[138,469,70,18]}
+{"kind":"shape","id":"sh/nelkbytk","slide":3,"bbox":[220,472,320,10]}
+{"kind":"shape","id":"sh/mdcj2tcz","slide":3,"bbox":[220,472,118.4,10]}
+{"kind":"textbox","id":"sh/9032d8ba","slide":3,"text":"N05B","textPreview":"N05B","textChars":4,"textLines":1,"bbox":[138,504,70,18]}
+{"kind":"shape","id":"sh/8zu143up","slide":3,"bbox":[220,507,320,10]}
+{"kind":"shape","id":"sh/v25kfitg","slide":3,"bbox":[220,507,86.4,10]}
+{"kind":"textbox","id":"sh/u1cj6dcv","slide":3,"text":"R03","textPreview":"R03","textChars":3,"textLines":1,"bbox":[138,539,70,18]}
+{"kind":"shape","id":"sh/s7e1wnq9","slide":3,"bbox":[220,542,320,10]}
+{"kind":"shape","id":"sh/t8ni5sru","slide":3,"bbox":[220,542,73.6,10]}
+{"kind":"shape","id":"sh/65wjud83","slide":3,"bbox":[613,374,549,216]}
+{"kind":"textbox","id":"sh/r6503i9o","slide":3,"text":"Inventory recommendations","textPreview":"Inventory recommendations","textChars":25,"textLines":1,"bbox":[635,390,350,26]}
+{"kind":"textbox","id":"sh/43e1s3qx","slide":3,"text":"Category       Demand      Stock      Order      Risk","textPreview":"Category       Demand      Stock      Order      Risk","textChars":53,"textLines":1,"bbox":[635,431,496,24]}
+{"kind":"textbox","id":"sh/54ni18ri","slide":3,"text":"N02BE              901             700          252      MEDIUM","textPreview":"N02BE              901             700          252      MEDIUM","textChars":63,"textLines":1,"bbox":[635,470,496,24]}
+{"kind":"textbox","id":"sh/i1wzqts7","slide":3,"text":"M01AB              151             100            66      MEDIUM","textPreview":"M01AB              151             100            66      MEDIUM","textChars":64,"textLines":1,"bbox":[635,509,496,24]}
+{"kind":"textbox","id":"sh/j250zy9c","slide":3,"text":"N05B                238             250              9      MEDIUM","textPreview":"N05B                238             250              9      MEDIUM","textChars":66,"textLines":1,"bbox":[635,548,496,24]}
+{"kind":"notes","id":"nt/apux6h","slide":3,"text":"Yasir: This is the dashboard view. Forecasts, stock, suggested orders and risk appear together, so a team can see the next decision in one place."}
+{"kind":"slide","id":"sl/5z9uhz","slide":4,"title":"From forecast to action.","textShapes":17}
+{"kind":"textbox","id":"sh/b61gnit0","slide":4,"text":"From forecast to action.","textPreview":"From forecast to action.","textChars":24,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"textbox","id":"sh/c7axgnal","slide":4,"text":"The dashboard keeps the decision context together.","textPreview":"The dashboard keeps the decision context together.","textChars":50,"textLines":1,"bbox":[74,124,1100,34]}
+{"kind":"textbox","id":"sh/d8jypsb6","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[80,190,62,38]}
+{"kind":"textbox","id":"sh/y9sfixsr","slide":4,"text":"Forecast","textPreview":"Forecast","textChars":8,"textLines":1,"bbox":[162,190,220,42]}
+{"kind":"textbox","id":"sh/zalgr2tc","slide":4,"text":"Next-period demand by category","textPreview":"Next-period demand by category","textChars":30,"textLines":1,"bbox":[430,190,660,42]}
+{"kind":"shape","id":"sh/0buxk7ax","slide":4,"bbox":[162,247,944,1]}
+{"kind":"textbox","id":"sh/lc3ytcb2","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[80,273,62,38]}
+{"kind":"textbox","id":"sh/ed8f6dcn","slide":4,"text":"Stock","textPreview":"Stock","textChars":5,"textLines":1,"bbox":[162,273,220,42]}
+{"kind":"textbox","id":"sh/fehwfyts","slide":4,"text":"Current and incoming units","textPreview":"Current and incoming units","textChars":26,"textLines":1,"bbox":[430,273,660,42]}
+{"kind":"shape","id":"sh/b254z2t0","slide":4,"bbox":[162,330,944,1]}
+{"kind":"textbox","id":"sh/a1w36xcf","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[80,356,62,38]}
+{"kind":"textbox","id":"sh/x4nm1cbq","slide":4,"text":"Coverage","textPreview":"Coverage","textChars":8,"textLines":1,"bbox":[162,356,220,42]}
+{"kind":"textbox","id":"sh/c3el87u5","slide":4,"text":"Days of supply","textPreview":"Days of supply","textChars":14,"textLines":1,"bbox":[430,356,660,42]}
+{"kind":"shape","id":"sh/ne5kv2to","slide":4,"bbox":[162,413,944,1]}
+{"kind":"textbox","id":"sh/2dc32xc3","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[80,439,62,38]}
+{"kind":"textbox","id":"sh/pgn2xsbu","slide":4,"text":"Risk","textPreview":"Risk","textChars":4,"textLines":1,"bbox":[162,439,220,42]}
+{"kind":"textbox","id":"sh/ofel47u9","slide":4,"text":"Stockout and expiry flags","textPreview":"Stockout and expiry flags","textChars":25,"textLines":1,"bbox":[430,439,660,42]}
+{"kind":"shape","id":"sh/falkrits","slide":4,"bbox":[162,496,944,1]}
+{"kind":"textbox","id":"sh/e9c3ydc7","slide":4,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[80,522,62,38]}
+{"kind":"textbox","id":"sh/i5s3adwz","slide":4,"text":"Order","textPreview":"Order","textChars":5,"textLines":1,"bbox":[162,522,220,42]}
+{"kind":"textbox","id":"sh/36143ixk","slide":4,"text":"Suggested replenishment","textPreview":"Suggested replenishment","textChars":23,"textLines":1,"bbox":[430,522,660,42]}
+{"kind":"shape","id":"sh/47ulcne5","slide":4,"bbox":[162,579,944,1]}
+{"kind":"notes","id":"nt/5z9uhz","slide":4,"text":"Yasir: The dashboard shows predicted demand, available stock, days of supply, risk levels, and a suggested order. The goal is to make the decision easy to read."}
+{"kind":"slide","id":"sl/om13uz","slide":5,"title":"N02BE","textShapes":9}
+{"kind":"textbox","id":"sh/7ahcb29o","slide":5,"text":"N02BE","textPreview":"N02BE","textChars":5,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"textbox","id":"sh/8bqt4na9","slide":5,"text":"A prototype scenario · 30-day planning horizon","textPreview":"A prototype scenario · 30-day planning horizon","textChars":46,"textLines":1,"bbox":[74,124,1100,34]}
+{"kind":"shape","id":"sh/9czudsru","slide":5,"bbox":[72,194,1136,378]}
+{"kind":"textbox","id":"sh/udsv6xsf","slide":5,"text":"901","textPreview":"901","textChars":3,"textLines":1,"bbox":[135,258,340,118]}
+{"kind":"textbox","id":"sh/ve1cf290","slide":5,"text":"PREDICTED DEMAND","textPreview":"PREDICTED DEMAND","textChars":16,"textLines":1,"bbox":[142,383,320,30]}
+{"kind":"textbox","id":"sh/wzad87al","slide":5,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[530,302,150,70]}
+{"kind":"textbox","id":"sh/h0juhcrq","slide":5,"text":"252","textPreview":"252","textChars":3,"textLines":1,"bbox":[735,258,340,118]}
+{"kind":"textbox","id":"sh/qhobudsb","slide":5,"text":"RECOMMENDED ORDER","textPreview":"RECOMMENDED ORDER","textChars":17,"textLines":1,"bbox":[742,383,360,30]}
+{"kind":"shape","id":"sh/bixc3itg","slide":5,"bbox":[142,452,988,1]}
+{"kind":"textbox","id":"sh/nq9k3ap0","slide":5,"text":"700 on hand   +   100 incoming   +   150 safety stock","textPreview":"700 on hand   +   100 incoming   +   150 safety stock","textChars":53,"textLines":1,"bbox":[142,477,900,35]}
+{"kind":"textbox","id":"sh/2p0ju5of","slide":5,"text":"Demo inventory inputs; recommendation is a rule-based calculation.","textPreview":"Demo inventory inputs; recommendation is a rule-based calculation.","textChars":66,"textLines":1,"bbox":[142,529,1000,24]}
+{"kind":"notes","id":"nt/om13uz","slide":5,"text":"Aon: For N02BE, demand is predicted at 901 units. With 700 on hand, 100 incoming, and a 150-unit safety buffer, the prototype recommends 252 units. Inventory values are demo inputs."}
+{"kind":"slide","id":"sl/35sdzq","slide":6,"title":"Four steps turn history into a plan.","textShapes":17}
+{"kind":"textbox","id":"sh/snid4zu5","slide":6,"text":"Four steps turn history into a plan.","textPreview":"Four steps turn history into a plan.","textChars":36,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"shape","id":"sh/rm9wbudk","slide":6,"bbox":[72,244,250,202]}
+{"kind":"textbox","id":"sh/6l0v2pcz","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[95,264,60,29]}
+{"kind":"textbox","id":"sh/1cbeh4vm","slide":6,"text":"Historical data","textPreview":"Historical data","textChars":15,"textLines":1,"bbox":[95,312,210,48]}
+{"kind":"textbox","id":"sh/0b2d8zu1","slide":6,"text":"Monthly sales","textPreview":"Monthly sales","textChars":13,"textLines":1,"bbox":[95,373,210,46]}
+{"kind":"textbox","id":"sh/fatwfudg","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[326,319,36,50]}
+{"kind":"shape","id":"sh/e9kv6pcv","slide":6,"bbox":[364,244,250,202]}
+{"kind":"textbox","id":"sh/pgbel4vi","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[387,264,60,29]}
+{"kind":"textbox","id":"sh/of2dcjud","slide":6,"text":"Demand forecast","textPreview":"Demand forecast","textChars":15,"textLines":1,"bbox":[387,312,210,48]}
+{"kind":"textbox","id":"sh/ex87u5or","slide":6,"text":"Linear Regression","textPreview":"Linear Regression","textChars":17,"textLines":1,"bbox":[387,373,210,46]}
+{"kind":"textbox","id":"sh/fyhona5c","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[618,319,36,50]}
+{"kind":"shape","id":"sh/0zqpwf6h","slide":6,"bbox":[656,244,250,202]}
+{"kind":"textbox","id":"sh/1kz6p0n2","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[679,264,60,29]}
+{"kind":"textbox","id":"sh/2l87y54n","slide":6,"text":"Inventory analysis","textPreview":"Inventory analysis","textChars":18,"textLines":1,"bbox":[679,312,210,48]}
+{"kind":"textbox","id":"sh/nmhora58","slide":6,"text":"Stock, lead time, safety stock","textPreview":"Stock, lead time, safety stock","textChars":30,"textLines":1,"bbox":[679,373,210,46]}
+{"kind":"textbox","id":"sh/onap0fmt","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[910,319,36,50]}
+{"kind":"shape","id":"sh/poj6tkne","slide":6,"bbox":[948,244,250,202]}
+{"kind":"textbox","id":"sh/iponmloj","slide":6,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[971,264,60,29]}
+{"kind":"textbox","id":"sh/3qxofq54","slide":6,"text":"Recommendation","textPreview":"Recommendation","textChars":14,"textLines":1,"bbox":[971,312,210,48]}
+{"kind":"textbox","id":"sh/ny9c7ihk","slide":6,"text":"Order quantity & risk","textPreview":"Order quantity & risk","textChars":21,"textLines":1,"bbox":[971,373,210,46]}
+{"kind":"textbox","id":"sh/mx0vyd0z","slide":6,"text":"The forecast is an input to a transparent inventory rule.","textPreview":"The forecast is an input to a transparent inventory rule.","textChars":57,"textLines":1,"bbox":[72,518,1000,36]}
+{"kind":"notes","id":"nt/35sdzq","slide":6,"text":"Asad: We start with monthly sales history. The model forecasts demand. The inventory engine combines that forecast with stock and lead-time inputs, then returns an order suggestion and risk flags."}
+{"kind":"slide","id":"sl/lj0rb0","slide":7,"title":"A simple model. Measured on held-out months.","textShapes":11}
+{"kind":"textbox","id":"sh/0nq94nyx","slide":7,"text":"A simple model. Measured on held-out months.","textPreview":"A simple model. Measured on held-out months.","textChars":44,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"textbox","id":"sh/fmhsvihc","slide":7,"text":"Monthly pharmaceutical sales · time-based train/test split","textPreview":"Monthly pharmaceutical sales · time-based train/test split","textChars":58,"textLines":1,"bbox":[74,124,1100,34]}
+{"kind":"textbox","id":"sh/el8r2xgr","slide":7,"text":"70","textPreview":"70","textChars":2,"textLines":1,"bbox":[72,206,320,126]}
+{"kind":"textbox","id":"sh/9cza1cze","slide":7,"text":"months","textPreview":"months","textChars":6,"textLines":1,"bbox":[82,331,260,40]}
+{"kind":"shape","id":"sh/obq987yt","slide":7,"bbox":[390,205,2,320]}
+{"kind":"textbox","id":"sh/nahsz2h8","slide":7,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[456,206,270,126]}
+{"kind":"textbox","id":"sh/m98r6xg3","slide":7,"text":"ATC categories","textPreview":"ATC categories","textChars":14,"textLines":1,"bbox":[466,331,300,40]}
+{"kind":"shape","id":"sh/xgja5czq","slide":7,"bbox":[796,205,2,320]}
+{"kind":"textbox","id":"sh/wfa9w7y5","slide":7,"text":"2014–2019","textPreview":"2014–2019","textChars":9,"textLines":1,"bbox":[858,230,340,70]}
+{"kind":"textbox","id":"sh/adc3ulwb","slide":7,"text":"source data period","textPreview":"source data period","textChars":18,"textLines":1,"bbox":[862,310,320,32]}
+{"kind":"shape","id":"sh/vel4nqxw","slide":7,"bbox":[72,500,1136,104]}
+{"kind":"textbox","id":"sh/wfulwbeh","slide":7,"text":"LINEAR REGRESSION","textPreview":"LINEAR REGRESSION","textChars":17,"textLines":1,"bbox":[100,522,260,26]}
+{"kind":"textbox","id":"sh/xg3mpgfm","slide":7,"text":"MAE  60.91","textPreview":"MAE  60.91","textChars":10,"textLines":1,"bbox":[425,514,300,46]}
+{"kind":"textbox","id":"sh/ihc3ylw7","slide":7,"text":"RMSE  118.24","textPreview":"RMSE  118.24","textChars":12,"textLines":1,"bbox":[794,514,340,46]}
+{"kind":"notes","id":"nt/lj0rb0","slide":7,"text":"Asad: We used 70 monthly observations across eight categories, covering 2014 to 2019. We evaluated Linear Regression using a time-based split. The test errors were 60.91 MAE and 118.24 RMSE."}
+{"kind":"slide","id":"sl/z7f9xt","slide":8,"title":"The order rule is visible and explainable.","textShapes":17}
+{"kind":"textbox","id":"sh/8fqlg3u9","slide":8,"text":"The order rule is visible and explainable.","textPreview":"The order rule is visible and explainable.","textChars":42,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"textbox","id":"sh/7ex47yto","slide":8,"text":"Inventory engine · 30-day planning horizon","textPreview":"Inventory engine · 30-day planning horizon","textChars":42,"textLines":1,"bbox":[74,124,1100,34]}
+{"kind":"shape","id":"sh/mdo3etc3","slide":8,"bbox":[72,182,388,58]}
+{"kind":"textbox","id":"sh/h4zmd8bq","slide":8,"text":"Forecast demand","textPreview":"Forecast demand","textChars":15,"textLines":1,"bbox":[92,188,205,24]}
+{"kind":"textbox","id":"sh/wjqlk3u5","slide":8,"text":"Expected use","textPreview":"Expected use","textChars":12,"textLines":1,"bbox":[92,213,260,18]}
+{"kind":"shape","id":"sh/vih4bitk","slide":8,"bbox":[72,255,388,58]}
+{"kind":"textbox","id":"sh/uh83idcf","slide":8,"text":"Current stock","textPreview":"Current stock","textChars":13,"textLines":1,"bbox":[92,261,205,24]}
+{"kind":"textbox","id":"sh/58jmhsb2","slide":8,"text":"Units on hand","textPreview":"Units on hand","textChars":13,"textLines":1,"bbox":[92,286,260,18]}
+{"kind":"shape","id":"sh/47a5onuh","slide":8,"bbox":[72,328,388,58]}
+{"kind":"textbox","id":"sh/6tgj214r","slide":8,"text":"Incoming stock","textPreview":"Incoming stock","textChars":14,"textLines":1,"bbox":[92,334,205,24]}
+{"kind":"textbox","id":"sh/7upkv65c","slide":8,"text":"Already ordered","textPreview":"Already ordered","textChars":15,"textLines":1,"bbox":[92,359,260,18]}
+{"kind":"shape","id":"sh/svy14bmh","slide":8,"bbox":[72,401,388,58]}
+{"kind":"textbox","id":"sh/twr2xgn2","slide":8,"text":"Safety stock","textPreview":"Safety stock","textChars":12,"textLines":1,"bbox":[92,407,205,24]}
+{"kind":"textbox","id":"sh/ux0j614n","slide":8,"text":"Buffer quantity","textPreview":"Buffer quantity","textChars":15,"textLines":1,"bbox":[92,432,260,18]}
+{"kind":"shape","id":"sh/fy9kz658","slide":8,"bbox":[72,474,388,58]}
+{"kind":"textbox","id":"sh/gzi18bmt","slide":8,"text":"Supplier lead time","textPreview":"Supplier lead time","textChars":18,"textLines":1,"bbox":[92,480,205,24]}
+{"kind":"textbox","id":"sh/h0r21gne","slide":8,"text":"Days to delivery","textPreview":"Days to delivery","textChars":16,"textLines":1,"bbox":[92,505,260,18]}
+{"kind":"textbox","id":"sh/a1wjuhoj","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[484,329,100,62]}
+{"kind":"shape","id":"sh/b250nm54","slide":8,"bbox":[614,225,594,270]}
+{"kind":"textbox","id":"sh/z6lgvilw","slide":8,"text":"ENGINE OUTPUT","textPreview":"ENGINE OUTPUT","textChars":13,"textLines":1,"bbox":[652,256,300,28]}
+{"kind":"textbox","id":"sh/e5czmdkb","slide":8,"text":"Suggested order","textPreview":"Suggested order","textChars":15,"textLines":1,"bbox":[652,308,410,42]}
+{"kind":"textbox","id":"sh/183yxs3m","slide":8,"text":"Stockout risk  ·  Expiry risk  ·  Days of supply","textPreview":"Stockout risk  ·  Expiry risk  ·  Days of supply","textChars":48,"textLines":1,"bbox":[652,385,485,40]}
+{"kind":"textbox","id":"sh/07uhon2h","slide":8,"text":"Planning support, with human review.","textPreview":"Planning support, with human review.","textChars":36,"textLines":1,"bbox":[72,592,900,31]}
+{"kind":"notes","id":"nt/z7f9xt","slide":8,"text":"Aon: The inventory engine uses predicted demand, on-hand and incoming stock, safety stock, and supplier lead time. It calculates a suggested order and flags stockout or expiry risk."}
+{"kind":"slide","id":"sl/mpm4dr","slide":9,"title":"Three roles. One connected workflow.","textShapes":11}
+{"kind":"textbox","id":"sh/sf2dk7e1","slide":9,"text":"Three roles. One connected workflow.","textPreview":"Three roles. One connected workflow.","textChars":36,"textLines":1,"bbox":[72,50,1120,74]}
+{"kind":"shape","id":"sh/7etcr2xg","slide":9,"bbox":[72,210,350,190]}
+{"kind":"shape","id":"sh/6dkvixwv","slide":9,"bbox":[96,236,52,52]}
+{"kind":"textbox","id":"sh/hkvuxcfi","slide":9,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,236,52,52]}
+{"kind":"textbox","id":"sh/gjmdo7ex","slide":9,"text":"Asad","textPreview":"Asad","textChars":4,"textLines":1,"bbox":[96,307,290,40]}
+{"kind":"textbox","id":"sh/fidcv2xc","slide":9,"text":"Data & machine learning","textPreview":"Data & machine learning","textChars":23,"textLines":1,"bbox":[96,356,300,30]}
+{"kind":"shape","id":"sh/uhkvmxwr","slide":9,"bbox":[452,210,350,190]}
+{"kind":"shape","id":"sh/xorul8fe","slide":9,"bbox":[476,236,52,52]}
+{"kind":"textbox","id":"sh/wnitcnet","slide":9,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[476,236,52,52]}
+{"kind":"textbox","id":"sh/mt47q9kr","slide":9,"text":"Aon","textPreview":"Aon","textChars":3,"textLines":1,"bbox":[476,307,290,40]}
+{"kind":"textbox","id":"sh/nux8ze1c","slide":9,"text":"Inventory engine & backend","textPreview":"Inventory engine & backend","textChars":26,"textLines":1,"bbox":[476,356,300,30]}
+{"kind":"shape","id":"sh/ov6psj2x","slide":9,"bbox":[832,210,350,190]}
+{"kind":"shape","id":"sh/9gfq1oji","slide":9,"bbox":[856,236,52,52]}
+{"kind":"textbox","id":"sh/aho7utk3","slide":9,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[856,236,52,52]}
+{"kind":"textbox","id":"sh/bix83y1o","slide":9,"text":"Yasir","textPreview":"Yasir","textChars":5,"textLines":1,"bbox":[856,307,290,40]}
+{"kind":"textbox","id":"sh/wj6pw32t","slide":9,"text":"Dashboard & frontend","textPreview":"Dashboard & frontend","textChars":20,"textLines":1,"bbox":[856,356,300,30]}
+{"kind":"shape","id":"sh/xkfq5oje","slide":9,"bbox":[172,505,920,3]}
+{"kind":"textbox","id":"sh/ylo7yt0z","slide":9,"text":"Data  →  Forecast  →  Inventory logic  →  Dashboard","textPreview":"Data  →  Forecast  →  Inventory logic  →  Dashboard","textChars":51,"textLines":1,"bbox":[96,544,1088,46]}
+{"kind":"notes","id":"nt/mpm4dr","slide":9,"text":"Asad: I worked on the data and forecasting.\nAon: I built the inventory rules and backend integration.\nYasir: I built the dashboard that brings the results together."}
+{"kind":"slide","id":"sl/yvkfgd","slide":10,"title":"Predict.","textShapes":4}
+{"kind":"textbox","id":"sh/tcripsza","slide":10,"text":"Predict.","textPreview":"Predict.","textChars":8,"textLines":1,"bbox":[96,172,1080,86]}
+{"kind":"textbox","id":"sh/6p0jed0z","slide":10,"text":"Prepare.","textPreview":"Prepare.","textChars":8,"textLines":1,"bbox":[96,278,1080,86]}
+{"kind":"textbox","id":"sh/7q90nihk","slide":10,"text":"Prevent.","textPreview":"Prevent.","textChars":8,"textLines":1,"bbox":[96,384,1080,86]}
+{"kind":"shape","id":"sh/gf21kni1","slide":10,"bbox":[98,516,78,5]}
+{"kind":"textbox","id":"sh/1gb2tszm","slide":10,"text":"Hospital Medicine Forecasting & Inventory Intelligence","textPreview":"Hospital Medicine Forecasting & Inventory Intelligence","textChars":54,"textLines":1,"bbox":[98,552,1000,34]}
+{"kind":"notes","id":"nt/yvkfgd","slide":10,"text":"Asad: Predict demand. Prepare inventory. Prevent avoidable shortages and waste. Thank you."}
