@@ -36,14 +36,22 @@ function parseCsvLine(line: string): string[] {
 
 export async function GET() {
   try {
-    const projectRoot = path.resolve(process.cwd(), "..");
-    const [predictionsCsv, recommendationsJson] = await Promise.all([
-      fs.readFile(path.join(projectRoot, "output", "predictions.csv"), "utf-8"),
-      fs.readFile(
-        path.join(projectRoot, "output", "inventory_recommendations.json"),
-        "utf-8",
-      ),
-    ]);
+    const dashboardDataDir = path.join(
+  process.cwd(),
+  "data",
+  "dashboard",
+);
+
+const [predictionsCsv, recommendationsJson] = await Promise.all([
+  fs.readFile(
+    path.join(dashboardDataDir, "predictions.csv"),
+    "utf-8",
+  ),
+  fs.readFile(
+    path.join(dashboardDataDir, "inventory_recommendations.json"),
+    "utf-8",
+  ),
+]);
 
     const [headerLine, ...dataLines] = predictionsCsv.trim().split(/\r?\n/);
     if (!headerLine) throw new Error("Predictions CSV is empty.");
